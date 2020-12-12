@@ -17,32 +17,39 @@ Folders:
 - grassTextures    Folder of textures that are used by the VFX graph to help give shape to the grass spawned and applies the wind effect on the grass as a whole.
 
 Files:
-- **Grass Profile**  
-  * A diffusion profile that deals with subsurface settings of the grass. Make sure you add this profile to your HDRP settings. (Will be expanded upon later)
-- **Grass Test**  
-  * A test scene where you can try out the grass asset yourself.
-- **Plane Mat**  
-  * A simple material that is applied on the plane used in "Grass Test."
-- **Sky and Fog Settings Profile**  
-  * HDRP settings that deal with Sky and Fog.
+**Grass Profile**  
+  - A diffusion profile that deals with subsurface settings of the grass. Make sure you add this profile to your HDRP settings. (Will be expanded upon later)
+**Grass Test**  
+  - A test scene where you can try out the grass asset yourself.
+**Plane Mat**  
+  - A simple material that is applied on the plane used in "Grass Test."
+**Sky and Fog Settings Profile**  
+  - HDRP settings that deal with Sky and Fog.
 
 Step 2: Grass Test Scene  
 A Unity HDRP scene that will allow you to see and experiment with the "Stylized Grass" asset. In the following image, the "Grass Test" scene is scene.  
 
 <img src = "https://github.com/SirMishMash/Unity-StylizedGrass/blob/main/Git_docImages/Scene1.PNG" />  
 
-Heiarchy:
-- **Lighting Settings**:      An empty game object with HDRP settings placed inside  
-  * **Directional Light**:
-  * **Post Process Volume**:
-  * **Sky and Fog Volume**:
-- **Plane - Home**: The plane where the assets and character controller rest on
-- **Unity Chan Controller**: A basic character controller that uses [Unity Chan](https://assetstore.unity.com/packages/3d/characters/unity-chan-model-18705) 
-- **Main Camera**: Main camera used to follow Unity Chan.            
-- **GrassPlane-Quads**: A plane of grass that uses quad particles 
-- **GrassPlane-Tris**: A plane of grass that uses triangle particles 
-- **gCircle-Quad**: A circle of quad particles
-- **gPlane-Tris**: A large plane of triangle particles with altered parameters to spawn more grass on a larger surface area
+Heiarchy:  
+**Lighting Settings**  
+- **Directional Light**
+- **Post Process Volume**
+- **Sky and Fog Volume**
+**Plane - Home**  
+- The plane where the assets and character controller rest on
+**Unity Chan Controller**  
+- A basic character controller that uses [Unity Chan](https://assetstore.unity.com/packages/3d/characters/unity-chan-model-18705) 
+**Main Camera**  
+- Main camera used to follow Unity Chan.            
+**GrassPlane-Quads**  
+- A plane of grass that uses quad particles 
+**GrassPlane-Tris**  
+- A plane of grass that uses triangle particles 
+**gCircle-Quad**  
+- A circle of quad particles
+**gPlane-Tris**
+- A large plane of triangle particles with altered parameters to spawn more grass on a larger surface area
 
 
 **Wanna Support Me?**: http://paypal.me/sirmishmash

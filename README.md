@@ -21,11 +21,19 @@ Files:
 - Sky and Fog Settings Profile    HDRP settings that deal with Sky and Fog.
 
 Step 2: Grass Test Scene  
+A Unity HDRP scene that will allow you to see and experiment with the grass asset. In the following image, the "Grass Test" scene will be seen.  
 
 <img src = "https://github.com/SirMishMash/Unity-StylizedGrass/blob/main/Git_docImages/Scene1.PNG" />  
 
-
-
+Heiarchy:
+- Lighting Settings      An empty game object with HDRP settings placed inside  
+- Plane - Home           The plane where the assets and character controller rest on
+- Unity Chan Controller  A basic character controller that uses [Unity Chan](https://assetstore.unity.com/packages/3d/characters/unity-chan-model-18705) 
+- Main Camera            
+- GrassPlane-Quads       A plane of grass that uses quad particles 
+- GrassPlane-Tris        A plane of grass that uses triangle particles 
+- gCircle-Quad           A circle of quad particles
+- gPlane-Tris            A large plane of triangle particles with altered parameters to spawn more grass on a larger surface area
 
 
 **Wanna Support Me?**: http://paypal.me/sirmishmash

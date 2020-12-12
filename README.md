@@ -8,7 +8,7 @@ In order to successfully implement the Stylized Grass asset onto your project, p
 Step 1: Getting Started
 When the asset is successfully added to the your project you will find a couple files and folders. 
 
-<img src="https://github.com/SirMishMash/Unity-StylizedGrass/blob/main/Git_docImages/Starting1.PNG">
+<img src = "https://github.com/SirMishMash/Unity-StylizedGrass/blob/main/Git_docImages/Starting1.PNG">
 
 Folders:
 - grassGraphs      Folder of VFX graphs that deal with the spawning of grass blade particles and settings
@@ -23,4 +23,4 @@ Files:
 
 Step 2: Grass Test Scene  
 
-<img src=https://github.com/SirMishMash/Unity-StylizedGrass/blob/main/Git_docImages/Scene1.PNG">
+<img src = "https://github.com/SirMishMash/Unity-StylizedGrass/blob/main/Git_docImages/Scene1.PNG">

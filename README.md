@@ -19,8 +19,9 @@ Folders:
 Files:  
 
 **Grass Profile**  
-  - A diffusion profile that deals with subsurface settings of the grass. Make sure you add this profile to your HDRP settings. (Will be expanded upon later)  
-  
+  - A diffusion profile that deals with subsurface settings of the grass. Make sure you add this profile to your HDRP settings.
+<img src = "https://github.com/SirMishMash/Unity-StylizedGrass/blob/main/Git_docImages/Starting2.PNG" />
+
 **Grass Test**  
   - A test scene where you can try out the grass asset yourself.
   

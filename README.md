@@ -21,7 +21,7 @@ Files:
 - Sky and Fog Settings Profile    HDRP settings that deal with Sky and Fog.
 
 Step 2: Grass Test Scene  
-A Unity HDRP scene that will allow you to see and experiment with the grass asset. In the following image, the "Grass Test" scene will be seen.  
+A Unity HDRP scene that will allow you to see and experiment with the "Stylized Grass" asset. In the following image, the "Grass Test" scene is scene.  
 
 <img src = "https://github.com/SirMishMash/Unity-StylizedGrass/blob/main/Git_docImages/Scene1.PNG" />  
 

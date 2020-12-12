@@ -16,7 +16,7 @@ Folders:
 - grassPrefabs     Folder of prefabs that use the VFX graphs and have altered settings. Great way to see the VFX graph setttings in action
 - grassTextures    Folder of textures that are used by the VFX graph to help give shape to the grass spawned and applies the wind effect on the grass as a whole.
 
-Files:
+Files:  
 **Grass Profile**  
   - A diffusion profile that deals with subsurface settings of the grass. Make sure you add this profile to your HDRP settings. (Will be expanded upon later)
 **Grass Test**  

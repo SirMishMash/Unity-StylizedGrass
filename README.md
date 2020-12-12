@@ -18,13 +18,13 @@ Folders:
 
 Files:  
 **Grass Profile**  
-  - A diffusion profile that deals with subsurface settings of the grass. Make sure you add this profile to your HDRP settings. (Will be expanded upon later)
+  - A diffusion profile that deals with subsurface settings of the grass. Make sure you add this profile to your HDRP settings. (Will be expanded upon later)  
 **Grass Test**  
-  - A test scene where you can try out the grass asset yourself.
+  - A test scene where you can try out the grass asset yourself.  
 **Plane Mat**  
-  - A simple material that is applied on the plane used in "Grass Test."
+  - A simple material that is applied on the plane used in "Grass Test."  
 **Sky and Fog Settings Profile**  
-  - HDRP settings that deal with Sky and Fog.
+  - HDRP settings that deal with Sky and Fog.  
 
 Step 2: Grass Test Scene  
 A Unity HDRP scene that will allow you to see and experiment with the "Stylized Grass" asset. In the following image, the "Grass Test" scene is scene.  

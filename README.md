@@ -1,5 +1,5 @@
 # Git - Stylized Grass
-Author: SirMishMash
+Author: SirMishMash  
 Support Me: paypal.me/sirmishmash
 
 Required project settings:

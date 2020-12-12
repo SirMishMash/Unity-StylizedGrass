@@ -37,23 +37,30 @@ A Unity HDRP scene that will allow you to see and experiment with the "Stylized 
 
 Heiarchy:  
 **Lighting Settings**  
-- **Directional Light**
-- **Post Process Volume**
-- **Sky and Fog Volume**
+- **Directional Light**  
+- **Post Process Volume**  
+- **Sky and Fog Volume**  
+
 **Plane - Home**  
-- The plane where the assets and character controller rest on
+- The plane where the assets and character controller rest on  
+
 **Unity Chan Controller**  
-- A basic character controller that uses [Unity Chan](https://assetstore.unity.com/packages/3d/characters/unity-chan-model-18705) 
+- A basic character controller that uses [Unity Chan](https://assetstore.unity.com/packages/3d/characters/unity-chan-model-18705)  
+
 **Main Camera**  
-- Main camera used to follow Unity Chan.            
+- Main camera used to follow Unity Chan.  
+
 **GrassPlane-Quads**  
-- A plane of grass that uses quad particles 
+- A plane of grass that uses quad particles  
+
 **GrassPlane-Tris**  
-- A plane of grass that uses triangle particles 
+- A plane of grass that uses triangle particles  
+
 **gCircle-Quad**  
-- A circle of quad particles
-**gPlane-Tris**
-- A large plane of triangle particles with altered parameters to spawn more grass on a larger surface area
+- A circle of quad particles  
+
+**gPlane-Tris**  
+- A large plane of triangle particles with altered parameters to spawn more grass on a larger surface area  
 
 
 **Wanna Support Me?**: http://paypal.me/sirmishmash

@@ -1,6 +1,6 @@
 # Git - Stylized Grass
 **Author**: SirMishMash  
-**Support Me**: [GitHub](paypal.me/sirmishmash)
+**Support Me**: paypal.me/sirmishmash - automatic!
 
 Required project settings:
 In order to successfully implement the Stylized Grass asset onto your project, please make sure your project is in HDRP.

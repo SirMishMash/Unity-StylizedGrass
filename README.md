@@ -20,3 +20,7 @@ Files:
 - Grass Test                      A test scene where you can try out the grass asset yourself.
 - Plane Mat                       A simple material that is applied on the plane used in "Grass Test."
 - Sky and Fog Settings Profile    HDRP settings that deal with Sky and Fog.
+
+Step 2: Grass Test Scene  
+
+<img src=https://github.com/SirMishMash/Unity-StylizedGrass/blob/main/Git_docImages/Scene1.PNG">

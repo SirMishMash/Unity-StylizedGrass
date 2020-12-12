@@ -12,8 +12,7 @@ Folders:
 - grassTextures    Folder of textures that are used by the VFX graph to help give shape to the grass spawned and applies the wind effect on the grass as a whole.
 
 Files:
-- Grass Profile                   A diffusion profile that deals with subsurface settings of the grass. Make sure you add this profile to your HDRP settings. (Will be expanded  
-                                  upon later)
+- Grass Profile                   A diffusion profile that deals with subsurface settings of the grass. Make sure you add this profile to your HDRP settings. (Will be expanded     upon later)
 - Grass Test                      A test scene where you can try out the grass asset yourself.
 - Plane Mat                       A simple material that is applied on the plane used in "Grass Test."
 - Sky and Fog Settings Profile    HDRP settings that deal with Sky and Fog.

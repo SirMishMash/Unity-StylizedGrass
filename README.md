@@ -38,8 +38,11 @@ A Unity HDRP scene that will allow you to see and experiment with the "Stylized 
 Heiarchy:  
 **Lighting Settings**  
 - **Directional Light**  
+  * Light that is applied onto the scene  
 - **Post Process Volume**  
+  * Post processing settings that tie into **Directional Light** and **Sky and Fog Volume**
 - **Sky and Fog Volume**  
+  * Affects what type of sky is used and fog settings
 
 **Plane - Home**  
 - The plane where the assets and character controller rest on  

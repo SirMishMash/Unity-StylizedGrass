@@ -28,17 +28,17 @@ A Unity HDRP scene that will allow you to see and experiment with the "Stylized 
 <img src = "https://github.com/SirMishMash/Unity-StylizedGrass/blob/main/Git_docImages/Scene1.PNG" />  
 
 Heiarchy:
-1. Lighting Settings      An empty game object with HDRP settings placed inside  
- - Directional Light
- - Post Process Volume
- - Sky and Fog Volume
-2.Plane - Home           The plane where the assets and character controller rest on
-3.Unity Chan Controller  A basic character controller that uses [Unity Chan](https://assetstore.unity.com/packages/3d/characters/unity-chan-model-18705) 
-4.Main Camera            
-5.GrassPlane-Quads       A plane of grass that uses quad particles 
-6.GrassPlane-Tris        A plane of grass that uses triangle particles 
-7.gCircle-Quad           A circle of quad particles
-8.gPlane-Tris            A large plane of triangle particles with altered parameters to spawn more grass on a larger surface area
+- Lighting Settings      An empty game object with HDRP settings placed inside  
+  * Directional Light
+  * Post Process Volume
+  * Sky and Fog Volume
+- Plane - Home           The plane where the assets and character controller rest on
+- Unity Chan Controller  A basic character controller that uses [Unity Chan](https://assetstore.unity.com/packages/3d/characters/unity-chan-model-18705) 
+- Main Camera            
+- GrassPlane-Quads       A plane of grass that uses quad particles 
+- GrassPlane-Tris        A plane of grass that uses triangle particles 
+- gCircle-Quad           A circle of quad particles
+- gPlane-Tris            A large plane of triangle particles with altered parameters to spawn more grass on a larger surface area
 
 
 **Wanna Support Me?**: http://paypal.me/sirmishmash

@@ -65,5 +65,7 @@ Heiarchy:
 **gPlane-Tris**  
 - A large plane of triangle particles with altered parameters to spawn more grass on a larger surface area  
 
+<img src = "https://github.com/SirMishMash/Unity-StylizedGrass/blob/main/Git_docImages/Grass2.PNG" />
+
 
 **Wanna Support Me?**: http://paypal.me/sirmishmash

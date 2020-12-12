@@ -29,6 +29,9 @@ A Unity HDRP scene that will allow you to see and experiment with the "Stylized 
 
 Heiarchy:
 - Lighting Settings      An empty game object with HDRP settings placed inside  
+ - Directional Light
+ - Post Process Volume
+ - Sky and Fog Volume
 - Plane - Home           The plane where the assets and character controller rest on
 - Unity Chan Controller  A basic character controller that uses [Unity Chan](https://assetstore.unity.com/packages/3d/characters/unity-chan-model-18705) 
 - Main Camera            

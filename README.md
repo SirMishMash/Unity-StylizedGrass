@@ -11,11 +11,13 @@ When the asset is successfully added to the your project you will find a couple 
 
 <img src = "https://github.com/SirMishMash/Unity-StylizedGrass/blob/main/Git_docImages/Starting1.PNG" />
 
-## Folders
+## Folders  
 **grassGraphs**      
 - Folder of VFX graphs that deal with the spawning of grass blade particles and settings
+
 **grassPrefabs**     
 - Folder of prefabs that use the VFX graphs and have altered settings. Great way to see the VFX graph setttings in action
+
 **grassTextures**  
 - Folder of textures that are used by the VFX graph to help give shape to the grass spawned and applies the wind effect on the grass as a whole.
 

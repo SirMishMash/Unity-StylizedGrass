@@ -1,75 +1,30 @@
-# Git - Stylized Grass
+# SMM - Stylized Grass
 **Author**: SirMishMash  
+The following documentation will expand upong the SMM - Stylized Grass asset.
 
 <img src = "https://github.com/SirMishMash/Unity-StylizedGrass/blob/main/Git_docImages/Grass1.jpg" />  
 
 ## Required project settings  
-In order to successfully implement the Stylized Grass asset onto your project, please make sure your project is in HDRP.
+In order to successfully implement SMM - Stylized Grass asset into your project, please make sure your project works with the High-Definition Render Pipline (2019.4.7+) or HDRP for short.
 
 # Step 1: Getting Started
-When the asset is successfully added to the your project you will find a couple files and folders. 
-
+After adding the asset to the your project, you will find a couple files and folders. 
 <img src = "https://github.com/SirMishMash/Unity-StylizedGrass/blob/main/Git_docImages/Starting1.JPG" />
+The following folders are organized in a way that will help streamline your understanding for both the asset and VFX Graph in Unity HDRP.
 
-## Folders  
-**grassGraphs**      
-- Folder of VFX graphs that deal with the spawning of grass blade particles and settings
+Demo
+- A folder that contains files that help set up the scene "Demo - Grass" <br>
+Prefabs
+- A folder that contains example prefabs that you can use and experiment with <br>
+Textures
+- A folder that contains textures that affect how the grass is rendered and moves <br>
+VFX Graph
+- A folder that contains VFX Graphs that affect how the grass is spawned <br>
+Grass Profile
+- A diffusion profile used in HDRP that is used with the VFX Graphs provided to help create subsurface scattering effects
+- Note: in order to successfully implement the profile, you must include the profile inside of the "Diffusion Profile List" in your HDRP settings.
+ <img src = "https://github.com/SirMishMash/Unity-StylizedGrass/blob/main/Git_docImages/Starting2.jpg" /> 
 
-**grassPrefabs**     
-- Folder of prefabs that use the VFX graphs and have altered settings. Great way to see the VFX graph setttings in action
-
-**grassTextures**  
-- Folder of textures that are used by the VFX graph to help give shape to the grass spawned and applies the wind effect on the grass as a whole.
-
-## Files  
-
-**Grass Profile**  
-- A diffusion profile that deals with subsurface settings of the grass. Make sure you add this profile to your HDRP settings.
-<img src = "https://github.com/SirMishMash/Unity-StylizedGrass/blob/main/Git_docImages/Starting2.JPG" />
-
-**Grass Test**  
-- A test scene where you can try out the grass asset yourself.
-  
-**Plane Mat**  
-- A simple material that is applied on the plane used in "Grass Test."  
-  
-**Sky and Fog Settings Profile**  
-- HDRP settings that deal with Sky and Fog.  
-
-# Step 2: Grass Test Scene  
-A Unity HDRP scene that will allow you to see and experiment with the "Stylized Grass" asset. In the following image, the "Grass Test" scene is scene.  
-
-<img src = "https://github.com/SirMishMash/Unity-StylizedGrass/blob/main/Git_docImages/Scene1.JPG" />  
-
-## Heiarchy  
-**Lighting Settings**  
-- **Directional Light**  
-  * Light that is applied onto the scene  
-- **Post Process Volume**  
-  * Post processing settings that tie into **Directional Light** and **Sky and Fog Volume**
-- **Sky and Fog Volume**  
-  * Affects what type of sky is used and fog settings
-
-**Plane - Home**  
-- The plane where the assets and character controller rest on  
-
-**Unity Chan Controller**  
-- A basic character controller that uses [Unity Chan](https://assetstore.unity.com/packages/3d/characters/unity-chan-model-18705)  
-
-**Main Camera**  
-- Main camera used to follow Unity Chan.  
-
-**GrassPlane-Quads**  
-- A plane of grass that uses quad particles  
-
-**GrassPlane-Tris**  
-- A plane of grass that uses triangle particles  
-
-**gCircle-Quad**  
-- A circle of quad particles  
-
-**gPlane-Tris**  
-- A large plane of triangle particles with altered parameters to spawn more grass on a larger surface area  
 
 
 **Wanna Support Me?**: http://paypal.me/sirmishmash

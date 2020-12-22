@@ -9,7 +9,7 @@ In order to successfully implement the Stylized Grass asset onto your project, p
 # Step 1: Getting Started
 When the asset is successfully added to the your project you will find a couple files and folders. 
 
-<img src = "https://github.com/SirMishMash/Unity-StylizedGrass/blob/main/Git_docImages/Starting1.PNG" />
+<img src = "https://github.com/SirMishMash/Unity-StylizedGrass/blob/main/Git_docImages/Starting1.JPG" />
 
 ## Folders  
 **grassGraphs**      
@@ -25,7 +25,7 @@ When the asset is successfully added to the your project you will find a couple 
 
 **Grass Profile**  
 - A diffusion profile that deals with subsurface settings of the grass. Make sure you add this profile to your HDRP settings.
-<img src = "https://github.com/SirMishMash/Unity-StylizedGrass/blob/main/Git_docImages/Starting2.PNG" />
+<img src = "https://github.com/SirMishMash/Unity-StylizedGrass/blob/main/Git_docImages/Starting2.JPG" />
 
 **Grass Test**  
 - A test scene where you can try out the grass asset yourself.
@@ -39,7 +39,7 @@ When the asset is successfully added to the your project you will find a couple 
 # Step 2: Grass Test Scene  
 A Unity HDRP scene that will allow you to see and experiment with the "Stylized Grass" asset. In the following image, the "Grass Test" scene is scene.  
 
-<img src = "https://github.com/SirMishMash/Unity-StylizedGrass/blob/main/Git_docImages/Scene1.PNG" />  
+<img src = "https://github.com/SirMishMash/Unity-StylizedGrass/blob/main/Git_docImages/Scene1.JPG" />  
 
 ## Heiarchy  
 **Lighting Settings**  
@@ -70,8 +70,6 @@ A Unity HDRP scene that will allow you to see and experiment with the "Stylized 
 
 **gPlane-Tris**  
 - A large plane of triangle particles with altered parameters to spawn more grass on a larger surface area  
-
-<img src = "https://github.com/SirMishMash/Unity-StylizedGrass/blob/main/Git_docImages/Grass2.PNG" />
 
 
 **Wanna Support Me?**: http://paypal.me/sirmishmash

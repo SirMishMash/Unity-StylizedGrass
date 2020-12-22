@@ -12,16 +12,16 @@ After adding the asset to the your project, you will find a couple files and fol
 <img src = "https://github.com/SirMishMash/Unity-StylizedGrass/blob/main/Git_docImages/Starting1.JPG" /> <br>
 The following folders are organized in a way that will help streamline your understanding for both the asset and VFX Graph in Unity HDRP. <br>
 
-###Demo <br>
+### Demo <br>
 - A folder that contains files that help set up the scene "Demo - Grass" <br>
 
-####Prefabs <br>
+#### Prefabs <br>
 - A folder that contains example prefabs that you can use and experiment with <br>
 
-#####Textures <br>
+##### Textures <br>
 - A folder that contains textures that affect how the grass is rendered and moves <br>
 
-######VFX Graph <br>
+###### VFX Graph <br>
 - A folder that contains VFX Graphs that affect how the grass is spawned <br>
 
 Grass Profile <br>

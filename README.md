@@ -1,7 +1,7 @@
 # Git - Stylized Grass
 **Author**: SirMishMash  
 
-<img src = "https://github.com/SirMishMash/Unity-StylizedGrass/blob/main/Git_docImages/Grass1.JPG" />  
+<img src = "https://github.com/SirMishMash/Unity-StylizedGrass/blob/main/Git_docImages/Grass1.jpg" />  
 
 ## Required project settings  
 In order to successfully implement the Stylized Grass asset onto your project, please make sure your project is in HDRP.

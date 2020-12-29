@@ -37,6 +37,7 @@ The following scene will look like the following image below:
 By using the scene, users are given a scene where they can tinker with the asset and prefabs found with the asset package. 
 
 Looking into the prefab folder, the user will encounter a number of prefabs with a particular naming convention. 
+<img src = "https://github.com/SirMishMash/Unity-StylizedGrass/blob/main/Git_docImages/GetStarted3.JPG" />
 
 ### ex. nQuad-Circle
 

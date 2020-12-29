@@ -9,7 +9,7 @@ In order to successfully implement SMM - Stylized Grass asset into your project,
 
 # Step 1: Breakdown
 After adding the asset to the your project, you will find a couple files and folders. <br>
-<img src = "https://github.com/SirMishMash/Unity-StylizedGrass/blob/main/Git_docImages/Starting1.JPG" /> <br>
+<img src = "https://github.com/SirMishMash/Unity-StylizedGrass/blob/main/Git_docImages/Breakdown1.JPG" /> <br>
 The following folders are organized in a way that will help streamline your understanding for both the asset and VFX Graph in Unity HDRP. <br>
 
 ### Demo <br>
@@ -24,7 +24,7 @@ The following folders are organized in a way that will help streamline your unde
 - A diffusion profile used in HDRP that is used with the VFX Graphs provided to help create subsurface scattering effects
 - **NOTE:** in order to successfully implement the profile, you must include the profile inside of the "Diffusion Profile List" in your HDRP settings.
 
- <img src = "https://github.com/SirMishMash/Unity-StylizedGrass/blob/main/Git_docImages/Starting2.jpg" /> 
+ <img src = "https://github.com/SirMishMash/Unity-StylizedGrass/blob/main/Git_docImages/Breakdown2.jpg" /> 
 
 # Step 2: Getting Started
 

@@ -29,8 +29,10 @@ The following folders are organized in a way that will help streamline your unde
 # Step 2: Getting Started
 
 Inside the Stlyized Grass folder, enter the "Demo" folder and select the "Demo - Grass" scene.
+<img src = "https://github.com/SirMishMash/Unity-StylizedGrass/blob/main/Git_docImages/GetStarted1.gif" />  
 
-The following scene will look like the following image below. (insert scene image)
+The following scene will look like the following image below:
+<img src = "https://github.com/SirMishMash/Unity-StylizedGrass/blob/main/Git_docImages/GetStarted2.JPG" />  
 
 By using the scene, users are given a scene where they can tinker with the asset and prefabs found with the asset package. 
 

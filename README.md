@@ -35,7 +35,8 @@ The following scene will look like the following image below. (insert scene imag
 By using the scene, users are given a scene where they can tinker with the asset and prefabs found with the asset package. 
 
 Looking into the prefab folder, the user will encounter a number of prefabs with a particular naming convention. 
-ex. nQuad-Circle
+
+###ex. nQuad-Circle
 
 Section | Description
 ------------ | -------------

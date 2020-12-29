@@ -36,7 +36,7 @@ By using the scene, users are given a scene where they can tinker with the asset
 
 Looking into the prefab folder, the user will encounter a number of prefabs with a particular naming convention. 
 
-###ex. nQuad-Circle
+### ex. nQuad-Circle
 
 Section | Description
 ------------ | -------------

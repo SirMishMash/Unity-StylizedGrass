@@ -41,7 +41,7 @@ Looking into the prefab folder, the user will encounter a number of prefabs with
 
 ### ex. nQuad-Circle
 
-Section of Name | Description
+Section | Description
 ------------ | -------------
 **n** or **s** | Determines what kind of particle is spawned. If **normal (n)**, the particle will spawn in normally. If **soft (s)**, the particle that spawns in will be a soft particle. A soft particle has an alpha blending effect towards object that clip into the asset creating.
 **Quad** or **Tri** | Determines if the particles are spawned as **quads** or **triangles**.

@@ -48,9 +48,9 @@ Section | Description
 **Circle** or **Plane** | Determines the shape of the particles **spawning area**. <br>**Circle**: the area the particles are spawn in are within a circle <br>**Plane**: the area the particles are spawn in are within a plane
 
 Using the asset is as easy as dragging one of the SMM - Stylized Grass prefabs into a desired scene. The following .gif shows the prefab being dragged into the "Demo - Grass Scene" that comes with the asset package. 
-<img src = "https://github.com/SirMishMash/Unity-StylizedGrass/blob/main/Git_docImages/GetStarted4.JPG" />
+<img src = "https://github.com/SirMishMash/Unity-StylizedGrass/blob/main/Git_docImages/GetStarted4.gif" />
 
 Rather than using an existing prefab, the user is able to drag a VFX Graph into the scene as well. Unlike the prefab however, the asset will default to the world's origin (0,0,0).  
-<img src = "https://github.com/SirMishMash/Unity-StylizedGrass/blob/main/Git_docImages/GetStarted5.JPG" />
+<img src = "https://github.com/SirMishMash/Unity-StylizedGrass/blob/main/Git_docImages/GetStarted5.gif" />
 
 **Wanna Support Me?**: http://paypal.me/sirmishmash

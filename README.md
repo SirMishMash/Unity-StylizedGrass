@@ -77,13 +77,13 @@ The moment a parameter is altered, a checkbox will appear besides the altered se
 
 <img src = "https://github.com/SirMishMash/Unity-StylizedGrass/blob/main/Git_docImages/Customize3.JPG" />
 
-## Set UP
+## Set Up
 Section | Description
 ------------ | -------------
 Grass Blade Texture | The texture used to render each individual grass blade
 Blades of Grass | The number of grass blades spawned at a time
-Bounds Size | 
-Grass Spawn Area | The area where 
+Bounds Size | Absolute area for particles to spawn and a factor that determines whether or not asset is culled if camera rotates away from asset
+Grass Spawn Area | Determines where the grass particles will spawn 
 Random Height | Randomly sets the height of the grass using 2 variables.<br />**X = Min** and **Y = Max** 
 Random Width (Min and Max) | Randomly sets the width of the grass using 2 variables.<br />**X = Min** and **Y = Max**
 
@@ -91,7 +91,7 @@ Random Width (Min and Max) | Randomly sets the width of the grass using 2 variab
 Section | Description
 ------------ | -------------
 Grass Fade Distance | Strength of alpha blending effect when particles clip into another object.<br />**Note:** Only applies if asset is a soft particle. 
-Grass Smoothness | Determines how smooth the surface of the grass is.<br /><img src = "https://github.com/SirMishMash/Unity-StylizedGrass/blob/main/Git_docImages/StandardShaderSmoothnessGraduationTable.svg" /><br /> [Unity Documentation on Smoothness](https://docs.unity3d.com/Manual/StandardShaderMaterialParameterSmoothness.html)
+Grass Smoothness | Determines how smooth the surface of the grass is.<br /><img src = "https://github.com/SirMishMash/Unity-StylizedGrass/blob/main/Git_docImages/StandardShaderSmoothnessGraduationTable.svg" /><br /> Image from Unity [Documentation on Smoothness](https://docs.unity3d.com/Manual/StandardShaderMaterialParameterSmoothness.html)
 Color Random Gradient | The color of each grass blade will be determined randomly from the gradient that is set. 
 
 ## Wind Settings

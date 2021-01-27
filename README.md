@@ -32,8 +32,11 @@ Inside the Stlyized Grass folder, enter the "Demo" folder and select the "Demo -
 
 The following scene will look like the following image below:
 <img src = "https://github.com/SirMishMash/Unity-StylizedGrass/blob/main/Git_docImages/GetStarted2.gif" />
-<img src = "https://github.com/SirMishMash/Unity-StylizedGrass/blob/main/Git_docImages/GetStarted6.gif" />
+Section of the scene where grass is shown
 <img src = "https://github.com/SirMishMash/Unity-StylizedGrass/blob/main/Git_docImages/GetStarted7.gif" />
+Section of the scene where soft particle grass is shown
+<img src = "https://github.com/SirMishMash/Unity-StylizedGrass/blob/main/Git_docImages/GetStarted6.gif" />
+Section of scene where practical implementation is shown
 <img src = "https://github.com/SirMishMash/Unity-StylizedGrass/blob/main/Git_docImages/GetStarted8.gif" />
 
 By using the scene, users are given a scene where they can tinker with the asset and prefabs found with the asset package. 

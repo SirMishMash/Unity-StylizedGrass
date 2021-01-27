@@ -84,23 +84,24 @@ Grass Blade Texture | The texture used to render each individual grass blade
 Blades of Grass | The number of grass blades spawned at a time
 Bounds Size | 
 Grass Spawn Area | The area where 
-Random Height | Randomly sets the height of the grass using 2 variables. **X = Min** and **Y = Max** 
-Random Width (Min and Max) | Randomly sets the width of the grass using 2 variables. **X = Min** and **Y = Max**
+Random Height | Randomly sets the height of the grass using 2 variables.<br />**X = Min** and **Y = Max** 
+Random Width (Min and Max) | Randomly sets the width of the grass using 2 variables.<br />**X = Min** and **Y = Max**
 
 ## Grass Blade Settings
 Section | Description
 ------------ | -------------
-Grass Fade Distance | 
-Grass Smoothness | 
-Color Random Gradient | 
+Grass Fade Distance | Strength of alpha blending effect when particles clip into another object.<br />**Note:** Only applies if asset is a soft particle. 
+Grass Smoothness | Determines how smooth the surface of the grass is. 
+Color Random Gradient | The color of each grass blade will be determined randomly from the gradient that is set. 
+
 ## Wind Settings
 Section | Description
 ------------ | -------------
-Wind Noise Texture | 
-Wind Noise Tiling | 
-Wind Scroll Speed | 
-Wind Push Intensity | 
-Wind Push Intensity Multiplier | 
+Wind Noise Texture | The texture that applies the wind effect onto the grass particles.
+Wind Noise Tiling | Determines how many times the grass texture is tiled. The higher the number, the more times the texture repeated within the X and Y axis of the texture.
+Wind Scroll Speed | Sets the direction and speed of the modified texture. This determines how fast the grass will sway.
+Wind Push Intensity | A base level modifier that changes how much the grass sways.
+Wind Push Intensity Multiplier | Another multiplier that changes how much the grass sways but for all axis.
 
 
 **Wanna Support the Project and I?**: http://paypal.me/sirmishmash

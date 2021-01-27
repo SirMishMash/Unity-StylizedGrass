@@ -91,7 +91,7 @@ Random Width (Min and Max) | Randomly sets the width of the grass using 2 variab
 Section | Description
 ------------ | -------------
 Grass Fade Distance | Strength of alpha blending effect when particles clip into another object.<br />**Note:** Only applies if asset is a soft particle. 
-Grass Smoothness | Determines how smooth the surface of the grass is.<br /><img src = "https://github.com/SirMishMash/Unity-StylizedGrass/blob/main/Git_docImages/StandardShaderSmoothnessGraduationTable.svg" />
+Grass Smoothness | Determines how smooth the surface of the grass is.<br /><img src = "https://github.com/SirMishMash/Unity-StylizedGrass/blob/main/Git_docImages/StandardShaderSmoothnessGraduationTable.svg" /><br />
 Color Random Gradient | The color of each grass blade will be determined randomly from the gradient that is set. 
 
 ## Wind Settings
@@ -104,4 +104,4 @@ Wind Push Intensity | A base level modifier that changes how much the grass sway
 Wind Push Intensity Multiplier | Another multiplier that changes how much the grass sways but for all axis.
 
 
-**Wanna Support the Project and I?**: http://paypal.me/sirmishmash
+[**Wanna Support the Project and I?**] (http://paypal.me/sirmishmash)

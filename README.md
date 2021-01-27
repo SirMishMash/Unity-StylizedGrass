@@ -23,7 +23,6 @@ The following folders are organized in a way that will help streamline your unde
 ### Grass Profile <br>
 - A diffusion profile used in HDRP that is used with the VFX Graphs provided to help create subsurface scattering effects
 - **NOTE:** in order to successfully implement the profile, you must include the profile inside of the "Diffusion Profile List" in your HDRP settings.
-
  <img src = "https://github.com/SirMishMash/Unity-StylizedGrass/blob/main/Git_docImages/Breakdown2.jpg" /> 
 
 # Step 2: Getting Started
@@ -32,7 +31,10 @@ Inside the Stlyized Grass folder, enter the "Demo" folder and select the "Demo -
 <img src = "https://github.com/SirMishMash/Unity-StylizedGrass/blob/main/Git_docImages/GetStarted1.gif" />  
 
 The following scene will look like the following image below:
-<img src = "https://github.com/SirMishMash/Unity-StylizedGrass/blob/main/Git_docImages/GetStarted2.gif" />  
+<img src = "https://github.com/SirMishMash/Unity-StylizedGrass/blob/main/Git_docImages/GetStarted2.gif" />
+<img src = "https://github.com/SirMishMash/Unity-StylizedGrass/blob/main/Git_docImages/GetStarted6.gif" />
+<img src = "https://github.com/SirMishMash/Unity-StylizedGrass/blob/main/Git_docImages/GetStarted7.gif" />
+<img src = "https://github.com/SirMishMash/Unity-StylizedGrass/blob/main/Git_docImages/GetStarted8.gif" />
 
 By using the scene, users are given a scene where they can tinker with the asset and prefabs found with the asset package. 
 
@@ -48,9 +50,12 @@ Section | Description
 **Circle** or **Plane** | Determines the shape of the particles **spawning area**. <br>**Circle**: the area the particles are spawn in are within a circle <br>**Plane**: the area the particles are spawn in are within a plane
 
 Using the asset is as easy as dragging one of the SMM - Stylized Grass prefabs into a desired scene. The following .gif shows the prefab being dragged into the "Demo - Grass Scene" that comes with the asset package. 
+
 <img src = "https://github.com/SirMishMash/Unity-StylizedGrass/blob/main/Git_docImages/GetStarted4.gif" />
 
-Rather than using an existing prefab, the user is able to drag a VFX Graph into the scene as well. Unlike the prefab however, the asset will default to the world's origin (0,0,0).  
+Rather than using an existing prefab, the user is able to drag a VFX Graph into the scene as well. 
+**NOTE:** Take notice of the mouse position in the example below. The asset does not appear in the scene where the mouse drags the asset. Unlike the prefab, the asset will default to the world's origin (0,0,0).  
+
 <img src = "https://github.com/SirMishMash/Unity-StylizedGrass/blob/main/Git_docImages/GetStarted5.gif" />
 
 # Step 3: Customization
@@ -61,16 +66,11 @@ Selecting the asset or prefab after placing it into the scene, opens new options
 - Set Up: How the particles are instantiated. Settings to initialize spawning grass.
 - Grass Blade Settings: How reach blade of grass is rendered. Settings that deal with the color of the grass blades
 - Wind Settings: How the grass sways or moves. Settings that applies fake wind to the grass.
-
 <img src = "https://github.com/SirMishMash/Unity-StylizedGrass/blob/main/Git_docImages/Customize1.JPG" />
 
 In the Inspector, there are checkboxes besides each of the settings that can be altered. Boxes that are not checked, means that it is currently using the default settings found within the VFX Graph it is associated with.  
-
-<img src = "https://github.com/SirMishMash/Unity-StylizedGrass/blob/main/Git_docImages/Customize2.JPG" />
-
-The moment a parameter is altered, a checkbox will appear besides the altered setting. 
-
-
+<img src = "https://github.com/SirMishMash/Unity-StylizedGrass/blob/main/Git_docImages/Customize3.JPG" />
+The moment a parameter is altered, a checkbox will appear besides the altered setting. If there is a undesired result after altering a parameter, simply clicking on the checked box  will undo the changes and reset parameter back to its default settings.
 
 
 

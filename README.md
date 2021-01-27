@@ -66,9 +66,9 @@ Rather than using an existing prefab, the user is able to drag a VFX Graph into 
 Another great feature about this asset is the ability to customize the grass to the user's liking. Particle types, number of particles spawned, colour, are just a few of many parameters the asset will allow you to edit. 
 
 Selecting the asset or prefab after placing it into the scene, opens new options in the Inspector tab. 
-- Set Up: How the particles are instantiated. Settings to initialize spawning grass.
-- Grass Blade Settings: How reach blade of grass is rendered. Settings that deal with the color of the grass blades
-- Wind Settings: How the grass sways or moves. Settings that applies fake wind to the grass.
+- **Set Up:** How the particles are instantiated. Settings to initialize spawning grass.
+- **Grass Blade Settings:** How reach blade of grass is rendered. Settings that deal with the color of the grass blades
+- **Wind Settings:** How the grass sways or moves. Settings that applies fake wind to the grass.
 <img src = "https://github.com/SirMishMash/Unity-StylizedGrass/blob/main/Git_docImages/Customize1.JPG" />
 
 In the Inspector, there are checkboxes besides each of the settings that can be altered. Boxes that are not checked, means that it is currently using the default settings found within the VFX Graph it is associated with. <br />
@@ -77,6 +77,30 @@ The moment a parameter is altered, a checkbox will appear besides the altered se
 
 <img src = "https://github.com/SirMishMash/Unity-StylizedGrass/blob/main/Git_docImages/Customize3.JPG" />
 
+## Set UP
+Section | Description
+------------ | -------------
+Grass Blade Texture | The texture used to render each individual grass blade
+Blades of Grass | The number of grass blades spawned at a time
+Bounds Size | 
+Grass Spawn Area | The area where 
+Random Height | Randomly sets the height of the grass using 2 variables. **X = Min** and **Y = Max** 
+Random Width (Min and Max) | Randomly sets the width of the grass using 2 variables. **X = Min** and **Y = Max**
+
+## Grass Blade Settings
+Section | Description
+------------ | -------------
+Grass Fade Distance | 
+Grass Smoothness | 
+Color Random Gradient | 
+## Wind Settings
+Section | Description
+------------ | -------------
+Wind Noise Texture | 
+Wind Noise Tiling | 
+Wind Scroll Speed | 
+Wind Push Intensity | 
+Wind Push Intensity Multiplier | 
 
 
 **Wanna Support the Project and I?**: http://paypal.me/sirmishmash

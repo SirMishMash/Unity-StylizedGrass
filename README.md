@@ -72,8 +72,8 @@ Selecting the asset or prefab after placing it into the scene, opens new options
 <img src = "https://github.com/SirMishMash/Unity-StylizedGrass/blob/main/Git_docImages/Customize1.JPG" />
 
 In the Inspector, there are checkboxes besides each of the settings that can be altered. Boxes that are not checked, means that it is currently using the default settings found within the VFX Graph it is associated with.  
-<img src = "https://github.com/SirMishMash/Unity-StylizedGrass/blob/main/Git_docImages/Customize3.JPG" /><br />
-The moment a parameter is altered, a checkbox will appear besides the altered setting. If there is a undesired result after altering a parameter, simply clicking on the checked box  will undo the changes and reset parameter back to its default settings.
+The moment a parameter is altered, a checkbox will appear besides the altered setting. If there is a undesired result after altering a parameter, simply clicking on the checked box  will undo the changes and reset parameter back to its default settings.<br />
+<img src = "https://github.com/SirMishMash/Unity-StylizedGrass/blob/main/Git_docImages/Customize3.JPG" />
 
 
 

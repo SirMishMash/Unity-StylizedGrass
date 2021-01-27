@@ -56,7 +56,7 @@ Using the asset is as easy as dragging one of the SMM - Stylized Grass prefabs i
 
 <img src = "https://github.com/SirMishMash/Unity-StylizedGrass/blob/main/Git_docImages/GetStarted4.gif" />
 
-Rather than using an existing prefab, the user is able to drag a VFX Graph into the scene as well. 
+Rather than using an existing prefab, the user is able to drag a VFX Graph into the scene as well.<br /> 
 **NOTE:** Take notice of the mouse position in the example below. The asset does not appear in the scene where the mouse drags the asset. Unlike the prefab, the asset will default to the world's origin (0,0,0).  
 
 <img src = "https://github.com/SirMishMash/Unity-StylizedGrass/blob/main/Git_docImages/GetStarted5.gif" />

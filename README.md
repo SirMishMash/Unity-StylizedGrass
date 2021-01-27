@@ -53,4 +53,25 @@ Using the asset is as easy as dragging one of the SMM - Stylized Grass prefabs i
 Rather than using an existing prefab, the user is able to drag a VFX Graph into the scene as well. Unlike the prefab however, the asset will default to the world's origin (0,0,0).  
 <img src = "https://github.com/SirMishMash/Unity-StylizedGrass/blob/main/Git_docImages/GetStarted5.gif" />
 
-**Wanna Support Me?**: http://paypal.me/sirmishmash
+# Step 3: Customization
+
+Another great feature about this asset is the ability to customize the grass to the user's liking. Particle types, number of particles spawned, colour, are just a few of many parameters the asset will allow you to edit. 
+
+Selecting the asset or prefab after placing it into the scene, opens new options in the Inspector tab. 
+- Set Up: How the particles are instantiated. Settings to initialize spawning grass.
+- Grass Blade Settings: How reach blade of grass is rendered. Settings that deal with the color of the grass blades
+- Wind Settings: How the grass sways or moves. Settings that applies fake wind to the grass.
+
+<img src = "https://github.com/SirMishMash/Unity-StylizedGrass/blob/main/Git_docImages/Customize1.JPG" />
+
+In the Inspector, there are checkboxes besides each of the settings that can be altered. Boxes that are not checked, means that it is currently using the default settings found within the VFX Graph it is associated with.  
+
+<img src = "https://github.com/SirMishMash/Unity-StylizedGrass/blob/main/Git_docImages/Customize2.JPG" />
+
+The moment a parameter is altered, a checkbox will appear besides the altered setting. 
+
+
+
+
+
+**Wanna Support the Project and I?**: http://paypal.me/sirmishmash

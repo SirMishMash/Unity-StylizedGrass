@@ -61,9 +61,7 @@ Rather than using an existing prefab, the user is able to drag a VFX Graph into 
 Another great feature about this asset is the ability to customize the grass to the user's liking. Particle types, number of particles spawned, colour, are just a few of many parameters the asset will allow you to edit. 
 
 Selecting the asset or prefab after placing it into the scene, opens new options in the Inspector tab. 
-- **Set Up:** How the particles are instantiated. Settings to initialize spawning grass.
-- **Grass Blade Settings:** How reach blade of grass is rendered. Settings that deal with the color of the grass blades
-- **Wind Settings:** How the grass sways or moves. Settings that applies fake wind to the grass.
+
 <img src = "https://github.com/SirMishMash/Unity-StylizedGrass/blob/main/Git_docImages/Customize1.JPG" />
 
 In the Inspector, there are checkboxes besides each of the settings that can be altered. Boxes that are not checked, means that it is currently using the default settings found within the VFX Graph it is associated with. <br />
@@ -73,6 +71,7 @@ The moment a parameter is altered, a checkbox will appear besides the altered se
 <img src = "https://github.com/SirMishMash/Unity-StylizedGrass/blob/main/Git_docImages/Customize3.JPG" />
 
 ## Set Up
+How the particles are instantiated. Settings to initialize spawning grass.
 Section | Description
 ------------ | -------------
 Grass Blade Texture | The texture used to render each individual grass blade
@@ -83,6 +82,7 @@ Random Height | Randomly sets the height of the grass using 2 variables.<br />**
 Random Width (Min and Max) | Randomly sets the width of the grass using 2 variables.<br />**X = Min** and **Y = Max**
 
 ## Grass Blade Settings
+How reach blade of grass is rendered. Settings that deal with the color of the grass blades
 Section | Description
 ------------ | -------------
 Grass Fade Distance | Strength of alpha blending effect when particles clip into another object.<br />**Note:** Only applies if asset is a soft particle. 
@@ -90,6 +90,7 @@ Grass Smoothness | Determines how smooth the surface of the grass is.<br /><img 
 Color Random Gradient | The color of each grass blade will be determined randomly from the gradient that is set. 
 
 ## Wind Settings
+How the grass sways or moves. Settings that applies fake wind to the grass.
 Section | Description
 ------------ | -------------
 Wind Noise Texture | The texture that applies the wind effect onto the grass particles.

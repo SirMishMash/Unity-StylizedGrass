@@ -12,18 +12,13 @@ After adding the asset to the your project, you will find a couple files and fol
 <img src = "https://github.com/SirMishMash/Unity-StylizedGrass/blob/main/Git_docImages/Breakdown1.JPG" /> <br>
 The following folders are organized in a way that will help streamline your understanding for both the asset and VFX Graph in Unity HDRP. <br>
 
-### Demo <br>
-- A folder that contains files that help set up the scene "Demo - Grass" <br>
-### Prefabs <br>
-- A folder that contains example prefabs that you can use and experiment with <br>
-### Textures <br>
-- A folder that contains textures that affect how the grass is rendered and moves <br>
-### VFX Graph <br>
-- A folder that contains VFX Graphs that affect how the grass is spawned <br>
-### Grass Profile <br>
-- A diffusion profile used in HDRP that is used with the VFX Graphs provided to help create subsurface scattering effects
-- **NOTE:** in order to successfully implement the profile, you must include the profile inside of the "Diffusion Profile List" in your HDRP settings.
- <img src = "https://github.com/SirMishMash/Unity-StylizedGrass/blob/main/Git_docImages/Breakdown2.jpg" /> 
+Section | Description
+------------ | -------------
+Demo | A folder that contains files that help set up the scene "Demo - Grass"
+Prefabs | A folder that contains example prefabs that you can use and experiment with
+Textures | A folder that contains textures that affect how the grass is rendered and moves
+Grass Profile | A diffusion profile used in HDRP that is used with the VFX Graphs provided to help create subsurface scattering effects<br><br>**NOTE:** in order to successfully implement the profile, you must include the profile inside of the "Diffusion Profile List" in your HDRP settings.
+<img src = "https://github.com/SirMishMash/Unity-StylizedGrass/blob/main/Git_docImages/Breakdown2.jpg" /> 
 
 # Step 2: Getting Started
 
@@ -103,5 +98,12 @@ Wind Scroll Speed | Sets the direction and speed of the modified texture. This d
 Wind Push Intensity | A base level modifier that changes how much the grass sways.
 Wind Push Intensity Multiplier | Another multiplier that changes how much the grass sways but for all axis.
 
+
+I would love to see how you implement my asset into your project. Feel free to @ me on Twitter or email me personally.
+<br>**Twitter:** @sirmishmash
+<br>**Email:** sirmishmash@gmail.com
+
+When crediting the asset, please use the follow to credit the project and I (Optional):
+<br>**Jon Ben Oliver (aka SirMishMash)**
 
 [**Wanna Support the Project and I?**](http://paypal.me/sirmishmash)
